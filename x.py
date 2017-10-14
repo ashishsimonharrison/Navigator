@@ -48,7 +48,6 @@ def number():
       w.pack()
       root.destroy()
 
-         
 button_1 = Button(root, text="Start...", command=number)
 button_1.grid(row=4)
 '''button_2=Button(root2, text="Exit", command=fr)
