@@ -1,0 +1,67 @@
+x,value,category
+shall,0,Imperative
+must,28,Imperative
+is required to,0,Imperative
+are applicable,7,Imperative
+are to,0,Imperative
+responsible for,0,Imperative
+will,0,Imperative
+should,0,Imperative
+below:,14,Continuance
+as follows:,15,Continuance
+following:,0,Continuance
+listed:,0,Continuance
+in particular:,0,Continuance
+support:,0,Continuance
+and,0,Continuance
+:,0,Continuance
+e.g.,28,Directive
+i.e.,0,Directive
+For example,0,Directive
+Figure,0,Directive
+Table,0,Directive
+Note:,10,Directive
+can,0,Option
+may,31,Option
+Optionally,0,Option
+adaptable,0,Weak Phrases
+adequate,13,Weak Phrases
+as appropriate,0,Weak Phrases
+as required,0,Weak Phrases
+bad,0,Weak Phrases
+be able to,0,Weak Phrases
+be capable of,0,Weak Phrases
+capability of,0,Weak Phrases
+capability to,0,Weak Phrases
+clear,0,Weak Phrases
+easy,17,Weak Phrases
+easy to,0,Weak Phrases
+effective,6,Weak Phrases
+etc,13,Weak Phrases
+fast,23,Weak Phrases
+flexible,0,Weak Phrases
+good,14,Weak Phrases
+maximize,0,Weak Phrases
+minimize,0,Weak Phrases
+normal,0,Weak Phrases
+provide for,0,Weak Phrases
+rapid,0,Weak Phrases
+similar,3,Weak Phrases
+support,0,Weak Phrases
+timely,2,Weak Phrases
+useful,0,Weak Phrases
+TBD,4,Incompleteness
+TBS,0,Incompleteness
+TBE,0,Incompleteness
+TBC,0,Incompleteness
+TBR,0,Incompleteness
+not defined,0,Incompleteness
+not determined,0,Incompleteness
+but not limited to,11,Incompleteness
+as a minimum,0,Incompleteness
+######,0,Incompleteness
+fault tolerant,2,Buzz Words
+high fidelity,0,Buzz Words
+user friendly,16,Buzz Words
+\band\b,0,Compund Requirements
+\bor\b,0,Compund Requirements
